@@ -1,4 +1,5 @@
 # construção de uma calculadora
+print('meu novo programa')
 print('*' * 8 + 'CALCULADORA' + '*' * 8)
 print('+ Adição')
 print('- Subtração')
